@@ -1,0 +1,60 @@
+calculo,TC1,6,12
+algebra superior I,TC2,4,8
+geometria analitica vectorial,TC3,4,8
+computacion I,TC4,5,6
+fisica general,TC5,4,8
+calculo II,TC6,6,12
+algebra superior II,TC7,4,8
+computacion II,TC8,4,6
+fisica I,TC9,5,10
+calculo III,TC10,6,12
+algebra lineal I,TC11,4,8
+probabilidad y estadisticas,TC12,4,8
+ecuaciones diferenciales ordinarias,TC13,4,8
+fisica II,TC14,5,10
+calulo IV,TC15,6,12
+algebra lineal II,TC16,4,8
+calculo complejo,TC17,4,8
+fisica III,TC18,5,10
+fisica moderna,TC19,4,8
+analisis matematico I,M1,5,10
+metodos numericos,M2,5,8
+geometria euclidiana,M3,4,8
+algebra moderna,M4,5,10
+analisis matematico II,M5,4,8
+teoria de modulos,M6,4,8
+analisis complejo,M7,4,8
+topologia,M8,4,8
+teoria de conjuntos,M9,4,8
+geometria diferencial,M10,4,8
+teoria de numeros,M11,4,8
+matematicas discretas,M12,4,8
+geometria moderna,M13,4,8
+ecuaciones diferenciales ordinarias II,M14,4,8
+teoria de la medida,M15,4,8
+analisis funcional,M16,4,8
+topologia diferencial,M17,4,8
+teoria de campos,M18,4,8
+introduccion al algebra homologica,M19,4,8
+topologia de conjuntos,M20,4,8
+introduccion a la topologia algebraica,M21,4,8
+matematicas discretas II,M22,4,8
+ecuaciones diferenciales parciales I,M23,4,8
+calculo de variaciones,M24,4,8
+ecuaciones diferenciales parciales II,M25,4,8
+geometria proyectiva,M26,4,8
+logica,M27,4,8
+teoria de categorias,M28,4,8
+analisis complejo II,M29,4,8
+algebra lineal numerica,M30,4,8
+analisis numerico I,M31,4,8
+analisis numerico II,M32,4,8
+soluciones numericas de ecs diferenciales ordinarias,M33,4,8
+estadisticas I,M34,4,8
+estadisticas II,M35,4,8
+soluciones numericas de ecs diferenciales parciales,M36,4,8
+optimizacion,M37,4,8
+algoritmos I,C1,4,8
+analisis de algoritmos I,C1,4,8
+lenguajes formales,C3,4,8
+computabilidad,C4,4,8
